@@ -7,4 +7,5 @@ A mini data science project predicting house prices using machine learning
 *First experiment, basic polynomial regression model.*
 
 **v2:** Refined model( RandomForest) with new features engineering, MAE 78078, R² 0.73 
+
 *Add new features and try the RandomForest to handle the categorical features well*
